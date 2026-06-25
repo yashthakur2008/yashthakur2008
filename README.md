@@ -8,7 +8,7 @@
 
 <!-- ===================== SOCIAL BADGES ===================== -->
 ![Profile Views](https://komarev.com/ghpvc/?username=yashthakur2008&color=blueviolet&style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-thakur-2a8977198)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yash@drivetrain.ai)
 
 </div>
@@ -33,9 +33,10 @@
 
 | Project | Description |
 | --- | --- |
-| **Project One** | Short one-line description of what it does |
-| **Project Two** | Short one-line description of what it does |
-| **Project Three** | Short one-line description of what it does |
+| [**AEGIS**](https://github.com/yashthakur2008/AEGIS) | Autonomous Epidermal & Germicidal Imaging System — a theranostics dermatological robot |
+| [**orama**](https://github.com/yashthakur2008/orama) | AI-powered research paper summarizer turning dense papers into structured insights |
+| [**ditto**](https://github.com/yashthakur2008/ditto) | TypeScript project |
+| [**refrain**](https://github.com/yashthakur2008/refrain) | — |
 
 ---
 
@@ -109,7 +110,7 @@
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/yashthakur2008/yashthakur2008/output/github-snake.svg" />
 </picture>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-thakur-2a8977198)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yash@drivetrain.ai)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
