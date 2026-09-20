@@ -25,7 +25,7 @@ My work lives where messy real-world inputs become clean systems: analytics pipe
 
 Visual frequency: **neocity black**, **neon red**, **electric cyan**, and atmospheric trance energy.
 
-**Ex-Drivetrain** and heavily immersed into startups, CTO @ Stealth, experimenting across research tooling, simultaneously conducting research @ MIT, CMU, SJSU and independently in interdisciplinary fields such as applied AI, robotics, computational informatics, TCS and data/embedded systems.
+**Ex-Drivetrain** and heavily immersed into startups, CTO @ Stealth, experimenting across research tooling, simultaneously conducting research @ SJSU and independently in interdisciplinary fields such as applied AI, robotics, computational informatics, TCS and data/embedded systems.
 
 </td>
 <td width="42%">
