@@ -7,7 +7,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yashthakur2008&color=ff003c&style=for-the-badge&label=SIGNAL+SCANS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-thakur-2a8977198)
-[![Email](https://img.shields.io/badge/Email-ff003c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yash@drivetrain.ai)
+[![Email](https://img.shields.io/badge/Email-ff003c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasht2008@gmail.com)
 
 </div>
 
