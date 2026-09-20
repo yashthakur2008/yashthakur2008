@@ -151,7 +151,7 @@ A project channel for experimenting with rhythm, repetition, interfaces, and exp
 If you’re building something ambitious, intelligent, or slightly too futuristic, send a signal.
 
 [![LinkedIn](https://img.shields.io/badge/connect_on_linkedin-00e5ff?style=for-the-badge&logo=linkedin&logoColor=050014)](https://linkedin.com/in/yash-thakur-2a8977198)
-[![Email](https://img.shields.io/badge/send_a_signal-ff003c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yash@drivetrain.ai)
+[![Email](https://img.shields.io/badge/send_a_signal-ff003c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasht2008@Gmail.com)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:050014,35:240046,65:ff003c,100:00e5ff&height=130&section=footer)
 
