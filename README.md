@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2600&pause=700&color=FF003C&center=true&vCenter=true&width=900&lines=transmitting+from+the+neocity+grid;building+data+systems+that+turn+noise+into+signal;full-stack+engineer+with+an+AI+%2F+ML+frequency;robotics+%E2%80%A2+research+tools+%E2%80%A2+analytics+engines)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yashthakur2008&color=ff003c&style=for-the-badge&label=SIGNAL+SCANS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-thakur-2a8977198)
+[![LinkedIn]()
 [![Email](https://img.shields.io/badge/Email-ff003c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasht2008@gmail.com)
 
 </div>
