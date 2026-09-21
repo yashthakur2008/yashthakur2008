@@ -1,0 +1,80 @@
+<svg width="1200" height="520" viewBox="0 0 1200 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Yash Thakur signal portrait</title>
+  <desc id="desc">A custom cybernetic portrait panel built from code-rain, contour lines, and signal typography.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="520" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#05070d"/>
+      <stop offset="0.48" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#090611"/>
+    </linearGradient>
+    <linearGradient id="hot" x1="96" y1="62" x2="1048" y2="451" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00e5ff"/>
+      <stop offset="0.48" stop-color="#f8f8f2"/>
+      <stop offset="1" stop-color="#ff2a6d"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="faceClip">
+      <path d="M297 80C241 85 202 124 194 183C189 223 177 245 161 276C143 311 151 360 187 391C218 418 248 442 301 443C357 444 396 417 421 384C446 351 455 301 437 266C421 235 410 206 405 172C397 119 359 75 297 80Z"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1200" height="520" rx="28" fill="url(#bg)"/>
+  <rect x="18" y="18" width="1164" height="484" rx="20" stroke="#1f2a44" stroke-width="2"/>
+  <rect x="34" y="34" width="1132" height="452" rx="14" stroke="#111827"/>
+
+  <g opacity="0.28" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#00e5ff">
+    <text x="70" y="72">01011001 01000001 01010011 01001000</text>
+    <text x="70" y="102">model.train(signal, noise).ship()</text>
+    <text x="70" y="132">research::applied_ai / robotics / data</text>
+    <text x="70" y="462">independent systems lab // build log active</text>
+    <text x="810" y="86">01110011 01101001 01100111 01101110 01100001 01101100</text>
+    <text x="835" y="454">full-stack / ml-ai / embedded data systems</text>
+  </g>
+
+  <g transform="translate(72 48)">
+    <ellipse cx="230" cy="212" rx="176" ry="202" fill="#090d18" stroke="#25314f" stroke-width="2"/>
+    <g clip-path="url(#faceClip)">
+      <rect x="120" y="48" width="360" height="420" fill="#070a12"/>
+      <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="1.2">
+        <text x="132" y="85" fill="#24475a">1011010010110100101101001011010010110100</text>
+        <text x="132" y="108" fill="#315f71">0010110011010010110011010010110011010010</text>
+        <text x="132" y="131" fill="#3f7b82">buildresearchbuildresearchbuildresearch</text>
+        <text x="132" y="154" fill="#5da4a5">1010systems1010models1010signals1010</text>
+        <text x="132" y="177" fill="#8cd8d8">data robotics ai data robotics ai data</text>
+        <text x="132" y="200" fill="#f8f8f2">signal signal signal signal signal signal</text>
+        <text x="132" y="223" fill="#d7f9ff">ship learn test ship learn test ship</text>
+        <text x="132" y="246" fill="#ffb3c7">researcher developer builder maker</text>
+        <text x="132" y="269" fill="#ff7a9e">01001101010011010100110101001101</text>
+        <text x="132" y="292" fill="#ff5a85">interfaces pipelines models tools</text>
+        <text x="132" y="315" fill="#ff3d73">applied intelligence and systems</text>
+        <text x="132" y="338" fill="#d83267">001101001011010010110100101101</text>
+        <text x="132" y="361" fill="#9d2b58">compute informatics tcs embedded</text>
+        <text x="132" y="384" fill="#6c2548">101010101010101010101010101010</text>
+      </g>
+    </g>
+    <path d="M297 80C241 85 202 124 194 183C189 223 177 245 161 276C143 311 151 360 187 391C218 418 248 442 301 443C357 444 396 417 421 384C446 351 455 301 437 266C421 235 410 206 405 172C397 119 359 75 297 80Z" stroke="url(#hot)" stroke-width="3" filter="url(#glow)"/>
+    <path d="M180 162C208 72 370 53 420 152" stroke="#101827" stroke-width="26" stroke-linecap="round"/>
+    <path d="M181 158C206 86 263 60 322 71C371 80 405 107 420 153" stroke="#00e5ff" stroke-opacity="0.42" stroke-width="2"/>
+    <path d="M224 228C246 212 269 212 290 228" stroke="#f8f8f2" stroke-width="4" stroke-linecap="round"/>
+    <path d="M325 228C346 212 370 212 391 229" stroke="#f8f8f2" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="257" cy="232" r="8" fill="#00e5ff" filter="url(#glow)"/>
+    <circle cx="359" cy="232" r="8" fill="#00e5ff" filter="url(#glow)"/>
+    <path d="M290 343C314 361 348 358 370 338" stroke="#ff2a6d" stroke-width="4" stroke-linecap="round"/>
+    <path d="M304 257C298 288 292 305 282 321C299 327 316 328 333 321" stroke="#7dd3fc" stroke-opacity="0.7" stroke-width="2"/>
+  </g>
+
+  <g transform="translate(560 116)">
+    <text x="0" y="0" fill="#f8f8f2" font-size="56" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="800" letter-spacing="8">YASH</text>
+    <text x="2" y="48" fill="#00e5ff" font-size="18" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="4">INDEPENDENT RESEARCHER / DEVELOPER</text>
+    <line x1="0" y1="75" x2="500" y2="75" stroke="url(#hot)" stroke-width="3"/>
+    <text x="0" y="124" fill="#dbeafe" font-size="24" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">applied AI . robotics . data systems</text>
+    <text x="0" y="162" fill="#dbeafe" font-size="24" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">full-stack products . computational informatics</text>
+    <text x="0" y="230" fill="#ff2a6d" font-size="18" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="2">NO TEMPLATE. NO STOCK CARDS. SIGNAL ONLY.</text>
+  </g>
+</svg>
