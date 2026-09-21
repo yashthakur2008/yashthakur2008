@@ -1,41 +1,72 @@
 <!--
   Yash Thakur profile README
-  Template: original cyber-dossier layout using Markdown + GitHub-safe HTML.
-  External visuals intentionally reduced. Badges are from shields.io only.
+  Design source: custom ASCII/cascade dossier, written directly in Markdown/HTML.
+  No generated banner, stats-card theme, or copied README template is used.
 -->
 
 <div align="center">
 
 <pre>
-Y A S H   T H A K U R
-DATA SYSTEMS / FULL-STACK ENGINEERING / ML-AI
-NEOCITY DOSSIER :: SIGNAL OVER NOISE
+01111001 01100001 01110011 01101000
+
+        Y A S H   T H A K U R
+  independent researcher / developer / builder
+
+       signal-driven software, applied AI,
+      robotics, data systems, and products
 </pre>
 
-<a href="mailto:yasht2008@gmail.com">email</a> / <a href="https://github.com/yashthakur2008">github</a>
+<a href="mailto:yasht2008@gmail.com">email</a> / <a href="https://github.com/yashthakur2008">github</a> / <a href="https://www.linkedin.com/in/yash-thakur-2a8977198/">linkedin</a>
 
 </div>
 
 ---
 
+## live signal
+
 ```text
-STATUS      building useful systems from messy inputs
-FOCUS       data products, full-stack applications, applied ML/AI
-STYLE       precise, atmospheric, high-signal, future-facing
-CURRENT     building, learning, and shipping
+identity    independent researcher + developer
+mode        build, test, ship, research, repeat
+focus       applied AI, robotics, data systems, full-stack products
+current     CTO @ Stealth / ex-Drivetrain / startup-heavy builder
+research    SJSU + independent interdisciplinary research
+fields      applied AI, robotics, computational informatics, TCS, data/embedded systems
 ```
 
-## signal
+I build at the intersection of research and product. I care about systems that are technically serious but still usable: tools that turn messy signals into structured workflows, products that feel fast and intentional, and research ideas that can survive contact with implementation.
 
-I build software where data, product, and intelligence meet. My work is about taking noisy inputs, structuring them into clear systems, and turning those systems into tools people can actually use.
-
-I care about clean interfaces, practical automation, model-powered workflows, and engineering that feels sharp without becoming overdesigned. The aesthetic here is intentional: dark terminal energy, electronic atmosphere, and a neocity edge, but with the content kept professional and grounded.
-
-No institutional research claims are listed here unless I explicitly add them. No academic project labels are used for the work below.
+This profile is intentionally not a stock GitHub README layout. The visual language is a custom terminal dossier: face-inspired ASCII, cascading signal text, and sparse contacts instead of generic stat cards.
 
 ---
 
-## selected work and experiments
+## ascii cascade portrait
+
+```text
+          .,:;i1ttfftt1i;:,.
+       .;1tLLCCGGGCCCCCLft1;.
+     .ifLCCGGG0000000GGCCLft;.
+    ,tLCCG0000000000000GGCLft:
+   :fLCG00000000000000000GCLt;           y a s h
+  .1LCG000000000000000000GCLf,       signal over noise
+  ;tCG0000000GGGCCCCGG0000GCt:
+  ifCG0000GCft1i;;;i1tfCG00GLi
+  1LG000GCt;,..     ..,;tCG0CL;
+  1LG00Gf:.   .,:;:,.   .fG0CL;
+  ifCG0C;   .;tLCCLf1,   ;CGCi
+  ;tCGGt    ,f0GttG0f,    tGf:
+  .1LCG;     .:;ii;:.     ;L1.
+   :fLCt        ...       tL;
+    ,tLC1.   .:;;;;:.   .1f,
+     .ifL1,   .;tt;.   ,1i.
+       .;1t1:.      .:1t;.
+          .,:;111111;:,.
+```
+
+The portrait is intentionally abstract rather than photorealistic. It is meant to read like a face resolving through terminal noise, not like a stock profile image.
+
+---
+
+## selected work
 
 <table>
 <tr>
@@ -45,7 +76,7 @@ No institutional research claims are listed here unless I explicitly add them. N
 
 Autonomous Epidermal and Germicidal Imaging System.
 
-A robotics and imaging concept exploring how software, sensing, and automation can support dermatological workflows.
+A robotics and imaging system concept at the edge of medical sensing, automation, and intelligent intervention.
 
 <a href="https://github.com/yashthakur2008/AEGIS">repository</a>
 
@@ -56,7 +87,7 @@ A robotics and imaging concept exploring how software, sensing, and automation c
 
 AI-assisted research paper summarization.
 
-A tool for turning dense papers into structured, readable outputs that are easier to scan, compare, and reuse.
+A tool for compressing dense papers into structured, readable outputs that are easier to scan, compare, and reuse.
 
 <a href="https://github.com/yashthakur2008/orama">repository</a>
 
@@ -69,7 +100,7 @@ A tool for turning dense papers into structured, readable outputs that are easie
 
 TypeScript application experiment.
 
-A space for product engineering, interface patterns, and reusable web application logic.
+A product engineering workspace for interfaces, reusable web logic, and fast iteration.
 
 <a href="https://github.com/yashthakur2008/ditto">repository</a>
 
@@ -80,7 +111,7 @@ A space for product engineering, interface patterns, and reusable web applicatio
 
 Creative systems experiment.
 
-A project space for exploring rhythm, repetition, interfaces, and expressive software.
+A software space for rhythm, repetition, interface behavior, and expressive tooling.
 
 <a href="https://github.com/yashthakur2008/refrain">repository</a>
 
@@ -90,67 +121,40 @@ A project space for exploring rhythm, repetition, interfaces, and expressive sof
 
 ---
 
-## stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-0b0f1a?style=for-the-badge&logo=python&logoColor=00e5ff)
-![TypeScript](https://img.shields.io/badge/TypeScript-0b0f1a?style=for-the-badge&logo=typescript&logoColor=00e5ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-0b0f1a?style=for-the-badge&logo=javascript&logoColor=f8f8f2)
-![Java](https://img.shields.io/badge/Java-0b0f1a?style=for-the-badge&logo=openjdk&logoColor=ff2a6d)
-![SQL](https://img.shields.io/badge/SQL-0b0f1a?style=for-the-badge&logo=postgresql&logoColor=00e5ff)
-![Go](https://img.shields.io/badge/Go-0b0f1a?style=for-the-badge&logo=go&logoColor=00e5ff)
-
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=00e5ff)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=f8f8f2)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=9cff6e)
-![Tailwind](https://img.shields.io/badge/Tailwind-111827?style=for-the-badge&logo=tailwindcss&logoColor=00e5ff)
-![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=00e5ff)
-![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonwebservices&logoColor=ffb86c)
-
-![Pandas](https://img.shields.io/badge/Pandas-171923?style=for-the-badge&logo=pandas&logoColor=f8f8f2)
-![NumPy](https://img.shields.io/badge/NumPy-171923?style=for-the-badge&logo=numpy&logoColor=00e5ff)
-![dbt](https://img.shields.io/badge/dbt-171923?style=for-the-badge&logo=dbt&logoColor=ff2a6d)
-![Spark](https://img.shields.io/badge/Spark-171923?style=for-the-badge&logo=apachespark&logoColor=ffb86c)
-![BigQuery](https://img.shields.io/badge/BigQuery-171923?style=for-the-badge&logo=googlebigquery&logoColor=00e5ff)
-![Snowflake](https://img.shields.io/badge/Snowflake-171923?style=for-the-badge&logo=snowflake&logoColor=00e5ff)
-
-![PyTorch](https://img.shields.io/badge/PyTorch-0b0f1a?style=for-the-badge&logo=pytorch&logoColor=ff2a6d)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0b0f1a?style=for-the-badge&logo=tensorflow&logoColor=ffb86c)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0b0f1a?style=for-the-badge&logo=scikit-learn&logoColor=00e5ff)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0b0f1a?style=for-the-badge&logo=huggingface&logoColor=f8f8f2)
-
-</div>
-
----
-
-## operating notes
+## build surface
 
 ```text
-I like projects that combine:
-- clean user experience
-- reliable data foundations
-- useful automation
-- applied intelligence
-- strong visual direction without fake claims
+languages      Python / TypeScript / JavaScript / Java / SQL / Go
+product        React / Next.js / Node.js / Tailwind
+systems        Docker / AWS / PostgreSQL / Git
+data           Pandas / NumPy / dbt / Spark / BigQuery / Snowflake
+intelligence   PyTorch / TensorFlow / scikit-learn / Hugging Face
 ```
 
-## contact
-
-LinkedIn is intentionally left out for now because the profile link/badge was not rendering reliably.
-
-Email:
+I like work that combines:
 
 ```text
-yasht2008@gmail.com
+- independent research taste
+- developer execution speed
+- strong product instincts
+- original visual direction
+- systems that feel useful, not decorative
 ```
 
 ---
+
+## contact hub
+
+```text
+email       yasht2008@gmail.com
+github      https://github.com/yashthakur2008
+linkedin    https://www.linkedin.com/in/yash-thakur-2a8977198/
+```
 
 <div align="center">
 
 <pre>
-END OF DOSSIER / OPEN TO HIGH-SIGNAL BUILDS
+END TRANSMISSION / STILL BUILDING
 </pre>
 
 </div>
