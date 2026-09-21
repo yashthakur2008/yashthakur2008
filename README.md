@@ -1,36 +1,88 @@
-<!-- ===================== NEOCITY SIGNAL HEADER ===================== -->
+<!--
+  Yash Thakur profile README
+  Template: original cyber-dossier layout using Markdown + GitHub-safe HTML.
+  External visuals intentionally reduced. Badges are from shields.io only.
+-->
+
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:050014,35:240046,65:ff003c,100:00e5ff&height=240&section=header&text=Yash%20Thakur&fontSize=68&fontColor=ffffff&animation=fadeIn&desc=DATA%20SYSTEMS%20%E2%80%A2%20FULL-STACK%20ENGINEERING%20%E2%80%A2%20ML/AI&descSize=18&descAlignY=64)
+<pre>
+Y A S H   T H A K U R
+DATA SYSTEMS / FULL-STACK ENGINEERING / ML-AI
+NEOCITY DOSSIER :: SIGNAL OVER NOISE
+</pre>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2600&pause=700&color=FF003C&center=true&vCenter=true&width=900&lines=transmitting+from+the+neocity+grid;building+data+systems+that+turn+noise+into+signal;full-stack+engineer+with+an+AI+%2F+ML+frequency;robotics+%E2%80%A2+research+tools+%E2%80%A2+analytics+engines)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=yashthakur2008&color=ff003c&style=for-the-badge&label=SIGNAL+SCANS)
-[![LinkedIn]()
-[![Email](https://img.shields.io/badge/Email-ff003c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasht2008@gmail.com)
+<a href="mailto:yasht2008@gmail.com">email</a> / <a href="https://github.com/yashthakur2008">github</a>
 
 </div>
 
 ---
 
+```text
+STATUS      building useful systems from messy inputs
+FOCUS       data products, full-stack applications, applied ML/AI
+STYLE       precise, atmospheric, high-signal, future-facing
+CURRENT     building, learning, and shipping
+```
+
+## signal
+
+I build software where data, product, and intelligence meet. My work is about taking noisy inputs, structuring them into clear systems, and turning those systems into tools people can actually use.
+
+I care about clean interfaces, practical automation, model-powered workflows, and engineering that feels sharp without becoming overdesigned. The aesthetic here is intentional: dark terminal energy, electronic atmosphere, and a neocity edge, but with the content kept professional and grounded.
+
+No institutional research claims are listed here unless I explicitly add them. No academic project labels are used for the work below.
+
+---
+
+## selected work and experiments
+
 <table>
 <tr>
-<td width="58%">
+<td width="50%">
 
-## 🌆 signal profile
+### AEGIS
 
-I’m **Yash Thakur**, an engineer building at the intersection of **data**, **full-stack product engineering**, and **ML/AI**.
+Autonomous Epidermal and Germicidal Imaging System.
 
-My work lives where messy real-world inputs become clean systems: analytics pipelines, intelligent web apps, model-powered workflows, and ambitious hardware/software projects. I like products that feel precise, useful, and alive, the kind of software that cuts through static and turns raw information into decisions.
+A robotics and imaging concept exploring how software, sensing, and automation can support dermatological workflows.
 
-Visual frequency: **neocity black**, **neon red**, **electric cyan**, and atmospheric trance energy.
-
-**Ex-Drivetrain** and heavily immersed into startups, CTO @ Stealth, experimenting across research tooling, simultaneously conducting research @ SJSU and independently in interdisciplinary fields such as applied AI, robotics, computational informatics, TCS and data/embedded systems.
+<a href="https://github.com/yashthakur2008/AEGIS">repository</a>
 
 </td>
-<td width="42%">
+<td width="50%">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashthakur2008&theme=tokyonight" />
+### orama
+
+AI-assisted research paper summarization.
+
+A tool for turning dense papers into structured, readable outputs that are easier to scan, compare, and reuse.
+
+<a href="https://github.com/yashthakur2008/orama">repository</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ditto
+
+TypeScript application experiment.
+
+A space for product engineering, interface patterns, and reusable web application logic.
+
+<a href="https://github.com/yashthakur2008/ditto">repository</a>
+
+</td>
+<td width="50%">
+
+### refrain
+
+Creative systems experiment.
+
+A project space for exploring rhythm, repetition, interfaces, and expressive software.
+
+<a href="https://github.com/yashthakur2008/refrain">repository</a>
 
 </td>
 </tr>
@@ -38,121 +90,67 @@ Visual frequency: **neocity black**, **neon red**, **electric cyan**, and atmosp
 
 ---
 
-## 🧬 active transmissions
-
-<table>
-<tr>
-<td width="50%">
-
-### 🛡️ [AEGIS](https://github.com/yashthakur2008/AEGIS)
-**Autonomous Epidermal & Germicidal Imaging System**
-
-A theranostics dermatological robot exploring the edge between medical imaging, automation, and intelligent intervention.
-
-`robotics` `computer vision` `healthtech` `AI systems`
-
-</td>
-<td width="50%">
-
-### 📡 [orama](https://github.com/yashthakur2008/orama)
-**AI research paper signal decoder**
-
-An AI-powered research summarizer that turns dense academic papers into structured, usable insight.
-
-`LLMs` `research tools` `summarization` `knowledge systems`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔁 [ditto](https://github.com/yashthakur2008/ditto)
-**TypeScript product experiment**
-
-A TypeScript project space for building fast, clean interfaces and reusable product logic.
-
-`TypeScript` `web apps` `product engineering`
-
-</td>
-<td width="50%">
-
-### 🎛️ [refrain](https://github.com/yashthakur2008/refrain)
-**creative systems lab**
-
-A project channel for experimenting with rhythm, repetition, interfaces, and expressive software.
-
-`creative tech` `systems design` `experimentation`
-
-</td>
-</tr>
-</table>
-
----
-
-## ⚙️ systems I work with
+## stack
 
 <div align="center">
 
-### core languages
-![Python](https://img.shields.io/badge/Python-050014?style=for-the-badge&logo=python&logoColor=00e5ff)
-![TypeScript](https://img.shields.io/badge/TypeScript-050014?style=for-the-badge&logo=typescript&logoColor=00e5ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-050014?style=for-the-badge&logo=javascript&logoColor=ffe66d)
-![Java](https://img.shields.io/badge/Java-050014?style=for-the-badge&logo=openjdk&logoColor=ff003c)
-![SQL](https://img.shields.io/badge/SQL-050014?style=for-the-badge&logo=postgresql&logoColor=00e5ff)
-![Go](https://img.shields.io/badge/Go-050014?style=for-the-badge&logo=go&logoColor=00e5ff)
+![Python](https://img.shields.io/badge/Python-0b0f1a?style=for-the-badge&logo=python&logoColor=00e5ff)
+![TypeScript](https://img.shields.io/badge/TypeScript-0b0f1a?style=for-the-badge&logo=typescript&logoColor=00e5ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-0b0f1a?style=for-the-badge&logo=javascript&logoColor=f8f8f2)
+![Java](https://img.shields.io/badge/Java-0b0f1a?style=for-the-badge&logo=openjdk&logoColor=ff2a6d)
+![SQL](https://img.shields.io/badge/SQL-0b0f1a?style=for-the-badge&logo=postgresql&logoColor=00e5ff)
+![Go](https://img.shields.io/badge/Go-0b0f1a?style=for-the-badge&logo=go&logoColor=00e5ff)
 
-### data grid
-![Pandas](https://img.shields.io/badge/Pandas-240046?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-240046?style=for-the-badge&logo=numpy&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-240046?style=for-the-badge&logo=dbt&logoColor=ff6b6b)
-![Spark](https://img.shields.io/badge/Spark-240046?style=for-the-badge&logo=apachespark&logoColor=ffb703)
-![BigQuery](https://img.shields.io/badge/BigQuery-240046?style=for-the-badge&logo=googlebigquery&logoColor=00e5ff)
-![Snowflake](https://img.shields.io/badge/Snowflake-240046?style=for-the-badge&logo=snowflake&logoColor=00e5ff)
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=00e5ff)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=f8f8f2)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=9cff6e)
+![Tailwind](https://img.shields.io/badge/Tailwind-111827?style=for-the-badge&logo=tailwindcss&logoColor=00e5ff)
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=00e5ff)
+![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonwebservices&logoColor=ffb86c)
 
-### intelligence layer
-![PyTorch](https://img.shields.io/badge/PyTorch-12001f?style=for-the-badge&logo=pytorch&logoColor=ff003c)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-12001f?style=for-the-badge&logo=tensorflow&logoColor=ff9f1c)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-12001f?style=for-the-badge&logo=scikit-learn&logoColor=00e5ff)
-![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face-12001f?style=for-the-badge&logo=huggingface&logoColor=ffe66d)
+![Pandas](https://img.shields.io/badge/Pandas-171923?style=for-the-badge&logo=pandas&logoColor=f8f8f2)
+![NumPy](https://img.shields.io/badge/NumPy-171923?style=for-the-badge&logo=numpy&logoColor=00e5ff)
+![dbt](https://img.shields.io/badge/dbt-171923?style=for-the-badge&logo=dbt&logoColor=ff2a6d)
+![Spark](https://img.shields.io/badge/Spark-171923?style=for-the-badge&logo=apachespark&logoColor=ffb86c)
+![BigQuery](https://img.shields.io/badge/BigQuery-171923?style=for-the-badge&logo=googlebigquery&logoColor=00e5ff)
+![Snowflake](https://img.shields.io/badge/Snowflake-171923?style=for-the-badge&logo=snowflake&logoColor=00e5ff)
 
-### product + infra
-![React](https://img.shields.io/badge/React-050014?style=for-the-badge&logo=react&logoColor=00e5ff)
-![Next.js](https://img.shields.io/badge/Next.js-050014?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-050014?style=for-the-badge&logo=nodedotjs&logoColor=39ff14)
-![Tailwind](https://img.shields.io/badge/Tailwind-050014?style=for-the-badge&logo=tailwindcss&logoColor=00e5ff)
-![Docker](https://img.shields.io/badge/Docker-050014?style=for-the-badge&logo=docker&logoColor=00e5ff)
-![AWS](https://img.shields.io/badge/AWS-050014?style=for-the-badge&logo=amazonwebservices&logoColor=ff9f1c)
-![PostgreSQL](https://img.shields.io/badge/Postgres-050014?style=for-the-badge&logo=postgresql&logoColor=00e5ff)
-![Git](https://img.shields.io/badge/Git-050014?style=for-the-badge&logo=git&logoColor=ff003c)
+![PyTorch](https://img.shields.io/badge/PyTorch-0b0f1a?style=for-the-badge&logo=pytorch&logoColor=ff2a6d)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0b0f1a?style=for-the-badge&logo=tensorflow&logoColor=ffb86c)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0b0f1a?style=for-the-badge&logo=scikit-learn&logoColor=00e5ff)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0b0f1a?style=for-the-badge&logo=huggingface&logoColor=f8f8f2)
 
 </div>
 
 ---
 
-## 📊 telemetry
+## operating notes
 
-<div align="center">
+```text
+I like projects that combine:
+- clean user experience
+- reliable data foundations
+- useful automation
+- applied intelligence
+- strong visual direction without fake claims
+```
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashthakur2008&theme=tokyonight&hide_border=true&background=050014&ring=ff003c&fire=ff003c&currStreakLabel=00e5ff" />
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashthakur2008&theme=tokyonight" />
+## contact
 
-<img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashthakur2008&theme=tokyonight" />
+LinkedIn is intentionally left out for now because the profile link/badge was not rendering reliably.
 
-</div>
+Email:
+
+```text
+yasht2008@gmail.com
+```
 
 ---
 
 <div align="center">
 
-## 🛰️ open channel
-
-**data systems · full-stack products · ML/AI · robotics · research tooling**
-
-If you’re building something ambitious, intelligent, or slightly too futuristic, send a signal.
-
-[![LinkedIn]()
-[![Email](https://img.shields.io/badge/send_a_signal-ff003c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasht2008@Gmail.com)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:050014,35:240046,65:ff003c,100:00e5ff&height=130&section=footer)
+<pre>
+END OF DOSSIER / OPEN TO HIGH-SIGNAL BUILDS
+</pre>
 
 </div>
