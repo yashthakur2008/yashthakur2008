@@ -19,11 +19,11 @@
 ## live signal
 
 ```text
-identity    independent researcher + developer
-mode        build, test, ship, research, repeat
+identity    independent researcher + full-stack developer
+mode        build, test, ship, research, repeat, dev, stress-test
 focus       applied AI, robotics, data systems, full-stack products
 current     CTO @ Stealth / ex-Drivetrain / startup-heavy builder
-research    SJSU + independent interdisciplinary research
+research    MIT CSAIL + CMU LEE LAB + SJSU ARMS LAB + independent interdisciplinary research
 fields      applied AI, robotics, computational informatics, TCS, data/embedded systems
 ```
 
